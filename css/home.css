@@ -1,0 +1,22 @@
+div#interface{
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header a{
+    font-size: 1.3rem;
+}
+
+header nav div ul li a{
+    color: #fff;
+}
+
+section .container-fluid .row{
+    height: 50vh;
+}
+
+h3 {
+    font-size: 3.7rem;
+}
